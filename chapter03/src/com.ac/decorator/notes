@@ -1,0 +1,8 @@
+装饰模式
+模式中有四个角色
+1.component 基础构建 角色，用于定义统一接口
+2.ConcreteComponent 具体角色和类，用于被装饰的角色
+3.AbstractDecorator 包含有一个ConcreteComponent的 装饰抽象类
+4.Decorator 具体实现的装饰者
+
+
